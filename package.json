@@ -1,9 +1,8 @@
 {
-  "name": "cyberfilehost",
+  "name": "filehost",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "mongodb": "^6.0.0",
-    "uuid": "^9.0.0"
+    "mongodb": "^6.0.0"
   }
 }
